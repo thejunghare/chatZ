@@ -1,4 +1,4 @@
-# Ollama Chat (Rust + Tauri)
+# Chatz (Rust + Tauri)     
 
 A native macOS chatbot application using Rust that integrates with Ollama's local language models.
 
